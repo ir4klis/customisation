@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Customisation Plugin\n"
+"POT-Creation-Date: 2019-08-25 10:36+0300\n"
+"PO-Revision-Date: 2019-08-25 18:32+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: customisation.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: el\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "Welcome to online exam service!"
+msgstr "Καλώς ήρθατε στην διαδικτυακή υπηρεσία εξετάσεων!"
+
+msgid "Here are some links to help you start"
+msgstr "Ακολουθούν μερικοί σύνδεσμοι που θα σας βοηθήσουν να ξεκινήσετε"
+
+msgid "Create a Quiz"
+msgstr "Δημιουργία Τεστ"
+
+msgid "Create a questions catalogue"
+msgstr "Δημιουργήστε κατάλογο ερωτήσεων"
+
+msgid "Developed by "
+msgstr "Αναπτύσσεται από τον "
+
+msgid "Heracles Michailidis"
+msgstr "Ηρακλή Μιχαηλίδη"
+
+msgid "Or "
+msgstr "Ή "
+
+msgid "import / export existing material"
+msgstr "εισάγετε / εξάγετε υπάρχον υλικό"
+
+msgid "Overview"
+msgstr "Επισκόπηση"
+
+msgid "There are available"
+msgstr "Υπάρχουν διαθέσιμα"
+
+msgid "Tests"
+msgstr "Τεστ"
+
+msgid "Question Pots"
+msgstr "Κατάλογοι ερωτήσεων"
+
+msgid "Question Pot"
+msgstr "Κατάλογος ερωτήσεων"
+
+msgid "Questions"
+msgstr "Ερωτήσεις"
+
+msgid "Question"
+msgstr "Ερώτηση"
+
+msgid "Help and documentation"
+msgstr "Βοήθεια και τεκμηρίωση"
+
+msgid "Manage settings"
+msgstr "Διαχείριση ρυθμίσεων"
+
+msgid "Manage users"
+msgstr "Διαχείριση χρηστών"
+
+msgid "You can "
+msgstr "Μπορείτε να "
+
+msgid "disable"
+msgstr "απενεργοποιήσετε"
+
+msgid "enable"
+msgstr "ενεργοποιήσετε"
+
+msgid " user self registration from general settings"
+msgstr " την αυτοεγγραφή χρηστών από τις γενικές ρυθμίσεις"
+
+msgid "Number of registred users"
+msgstr "Αριθμός εγγεγραμένων χρηστών"
+
+msgid "User self registration is <b>active</b>"
+msgstr "Η αυτοεγγραφή χρηστών είναι <b>ενεργή</b>"
+
+msgid "User self registration is <b>inactive</b>"
+msgstr "Η αυτοεγγραφή χρηστών είναι <b>ανενεργή</b>"
+
+msgid "Last registered user is"
+msgstr "Τελευταίος εγγεγραμένος χρήστης"
+
+msgid "User overview"
+msgstr "Επισκόπηση χρηστών"
