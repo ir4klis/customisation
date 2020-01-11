@@ -349,3 +349,6 @@ function kill_fouc () {
 
 }
 add_action('wp_head', 'kill_fouc');
+
+//disable xmlrpc server for security
+add_filter('xmlrpc_enabled', '__return_false');
